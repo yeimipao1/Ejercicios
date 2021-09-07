@@ -1,0 +1,22 @@
+/*selector{ propiedad: valor;}*/
+body{
+    background-color: rgba(255, 255, 0, 0.253);
+}
+
+li{
+    display:inline;
+    background-color: red;
+    border: 0px solid black;
+    padding: 130px;
+    color: white;
+    cursor: pointer;
+    box-shadow: 4px 5px 3px rgba(0, 0, 0, 0.158);
+    top: -3%;
+    
+}
+
+
+
+    
+ 
+ 
